@@ -47,9 +47,9 @@ public class Ejercicio_5 {
                     c1.consultarSaldo();
                     break;
                 case 5:
-                    System.out.println("-----------------------------");
+                    System.out.println("+---------------------------+");
                     System.out.println(c1.consultarDatos());
-                    System.out.println("-----------------------------");
+                    System.out.println("+---------------------------+");
                     break;
                 default:
                     if(opc!=6){
